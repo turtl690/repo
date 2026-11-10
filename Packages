@@ -6,12 +6,12 @@ Author: Local
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Architecture: iphoneos-arm64
-Version: 1.0.1
+Version: 1.0.2
 Installed-Size: 188
-Filename: ./com.local.snowfall26_1.0.1_iphoneos-arm64.deb
-Size: 14978
-MD5sum: 4f4f3655ef9d6f5f6e1911d2167115fd
-SHA1: 7db9f1fe05aaab19373695539c733d58b7635e6b
-SHA256: c68d6ebfa2a6c32994de70f3d0c44e3d3811315ff383083169292d4e5c947e6c
-SHA512: 20840cf22a0eeb2ab048121c9557cbc48e249f4a5f326c4f5f2f6eaa5faf6c6c84347658431a0d22f1a7ff181d20ba44279bb6ecf9f7f715f4da074e109e22a4
+Filename: ./com.local.snowfall26_1.0.2_iphoneos-arm64.deb
+Size: 15186
+MD5sum: abfb8fe3ff9b80a04519f27c3e7cd843
+SHA1: b4d9865234c47581985044de1b2aef31df8d8c7b
+SHA256: 8abf45dd5fec7788d08bd391128be91a75aceab9d2ed9d45103e7140bac6fd18
+SHA512: 891ea68d20226677f4b63e2757652a05a63764ea733040904aa4b307422766d19760112fe718921527344ed9bc4d23fc1b43b89dd47d229d7da1811171170179
 

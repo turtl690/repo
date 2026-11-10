@@ -1,9 +1,10 @@
-Origin: turt1690
-Label: turt1690 Tweak Repo
+Origin: turtl690
+Label: turtl690 Tweak Repo
 Suite: stable
 Codename: ios
+Components: main
 Architectures: iphoneos-arm64
-Description: iOS tweaks by turt1690
+Description: iOS tweaks by turtl690
 Date: Tue, 10 Nov 2026 01:07:15 GMT
 MD5Sum:
  fbc719aa96540766db7bb5830b9c3d4a 668 Packages

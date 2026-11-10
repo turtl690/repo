@@ -1,0 +1,19 @@
+Origin: turt1690
+Label: turt1690 Tweak Repo
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Description: iOS tweaks by turt1690
+Date: Tue, 10 Nov 2026 01:07:15 GMT
+MD5Sum:
+ fbc719aa96540766db7bb5830b9c3d4a 668 Packages
+ ad918a18b193f25bc03caecf8d2c513a 466 Packages.gz
+SHA1:
+ 648657118edc6f50094240cb26d680bd96e1ab90 668 Packages
+ 1ae767f551a7bae0e4650beaa154f3ff79827aa9 466 Packages.gz
+SHA256:
+ 083949ae7ebbd70b012137030a915f76bd4bd3c665ec4873c843b6a23e54ac58 668 Packages
+ 14b1dfdf9165800ce4d306cc40c8f2e838d958e351714a8043b88ed5bf3335fa 466 Packages.gz
+SHA512:
+ 20ab99be99ebf0ca7494b9b914f445a0cf2d78f63cc1f1444b36787d2a6f1c8be3dd687225eaf1a5127b5aa6d6739bbbe050173b008b81ebf4574e5a73915a92 668 Packages
+ d9eb42340a1843ac08576171bd0793b04290df9ce532dbc59e819eeedbad21afa53ba14fd8dd41c0fd884bfba41805c6781416877a069538639341740dad19c1 466 Packages.gz

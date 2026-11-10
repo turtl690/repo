@@ -1,0 +1,17 @@
+Package: com.local.snowfall26
+Name: Snowfall26
+Description: Configurable snow particles on the Home Screen and inside apps.
+Maintainer: Local
+Author: Local
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Installed-Size: 188
+Filename: ./com.local.snowfall26_1.0.0_iphoneos-arm64.deb
+Size: 11578
+MD5sum: b3cc7273af94bb5498e5eb7718b2c6cb
+SHA1: 7eb576df28327252ec4fe709fddb5fd7878747cf
+SHA256: d229efc00081cf1a6433416802709a10786733f1a67441db0199ab8f85e7cff5
+SHA512: 4376625eb8d4cc0db4d1b49fb271633c3c8a21cbdb55d871b68251a87a33d54650312ead3e971853af1a6b2adbf9f5a1d368b7beaa1763e2a8f06e2fdf5124bf
+
